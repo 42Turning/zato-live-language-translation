@@ -26,8 +26,8 @@ Z.A.T.O.  I Love the World and Everything In It/
 └── ...
 ```
 
-**注意**：此补丁依赖已有的中文汉化补丁[人工\双语]《Z.A.T.O.》汉化补丁，确保中文翻译文件存在。
-[[人工\双语]《Z.A.T.O.》汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=3651682454)
+**注意**：此补丁依赖已有的中文汉化补丁[[人工\双语]《Z.A.T.O.》汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=3651682454)，确保中文翻译文件存在。
+[[人工\双语]《Z.A.T.O.》汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=3651682454) 作者:feng。感谢作者的无私奉提供这么高质量的翻译。
 
 ## 使用
 
