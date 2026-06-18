@@ -14,12 +14,12 @@
 
 ## 安装
 
-将 `toggle_language.rpy` 复制到游戏目录的 `game/` 文件夹下：
+将 `toggle_language.rpyc` 复制到游戏目录的 `game/` 文件夹下：
 
 ```
 Z.A.T.O.  I Love the World and Everything In It/
 ├── game/
-│   ├── toggle_language.rpy    ← 放这里
+│   ├── toggle_language.rpyc    ← 放这里
 │   ├── scripts.rpa
 │   └── ...
 ├── ZATO.exe
