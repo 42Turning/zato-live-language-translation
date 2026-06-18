@@ -26,7 +26,7 @@ Z.A.T.O.  I Love the World and Everything In It/
 └── ...
 ```
 
-**注意**：此补丁依赖已有的中文汉化补丁[[人工\双语]《Z.A.T.O.》汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=3651682454)，确保中文翻译文件存在。
+**注意**：此补丁依赖已有的中文汉化补丁B站[【【汉化】《Z.A.T.O.》完整汉化发布：1986年，苏联，一座不存在的小镇，一个女孩的故事】](https://www.bilibili.com/video/BV1AaSTBEEmf) )，确保中文翻译文件存在。
 [【【汉化】《Z.A.T.O.》完整汉化发布：1986年，苏联，一座不存在的小镇，一个女孩的故事】](https://www.bilibili.com/video/BV1AaSTBEEmf) 作者:坚果和高坚果。感谢作者的无私奉提供这么高质量的翻译。
 
 ## 使用
